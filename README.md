@@ -1,3 +1,7 @@
+#はじめに
+model-190532.data-00000-of-00001をダウンロードして、modelディレクトリに置いてください。
+あとは、kitti dataを取得すること。
+
 # SfMLearner
 This codebase implements the system described in the paper:
 
